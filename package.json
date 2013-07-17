@@ -1,0 +1,25 @@
+{
+  "name": "android-sms",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-android-sms",
+  "author": "Jean Gabès",
+  "description": "Sending and receiving SMS from an Android phone",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-android-sms",
+  "keywords": [
+    "module",
+    "reactionner",
+    "android",
+    "sms"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
